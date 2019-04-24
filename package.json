@@ -1,0 +1,22 @@
+{
+  "name": "mydata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "formidable": "^1.2.1"
+  },
+  "devDependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.2",
+    "express-session": "^1.15.6",
+    "mongodb": "^3.2.2",
+    "mongoose": "^5.4.20"
+  }
+}
